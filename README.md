@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeekshithReddyInugala
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning AWS and DevOps methodologies.
+- 🌱 I’m currently as DevOps Engineer..
 
 
 <!---
