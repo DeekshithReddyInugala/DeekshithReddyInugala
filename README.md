@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeekshithReddyInugala
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently as DevOps Engineer..
+- 🌱 I’m currently working as DevOps Engineer..
 
 
 <!---
