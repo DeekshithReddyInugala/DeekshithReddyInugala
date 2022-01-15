@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DeekshithReddyInugala
+- 👋 Hi, I’m @Deekshith
+- 🌱 I’m currently working at GoGuardian as a DevOps Engineer.
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently working as DevOps Engineer..
-
 
 <!---
 DeekshithReddyInugala/DeekshithReddyInugala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
